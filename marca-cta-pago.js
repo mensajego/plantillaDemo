@@ -9,7 +9,7 @@ const WATERMARK = {
 
 // 💎 CTA inferior
 const CTA = {
-  text: "💌💌 ¿Te gusta esta plantilla? Consigue la versión completa sin marca de agua y compártela con <strong>esa persona especial</strong>.",
+  text: "💌¿Te gusta esta plantilla? Consigue la versión completa sin marca de agua y compártela con <strong>esa persona especial</strong>.",
   button: "💎 Obtener versión completa"
   // 👇 Eliminamos la URL de aquí
 };
@@ -44,4 +44,5 @@ document.addEventListener("DOMContentLoaded", () => {
     footerNote.textContent = FOOTER_NOTE;
   }
 });
+
 
